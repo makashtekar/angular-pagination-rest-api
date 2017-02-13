@@ -9,6 +9,6 @@ In command prompt
   bower install
   http-server -p 9000
 
-Visit localhost:9000
+Visit localhost:9000 
 
 :) Thank you
